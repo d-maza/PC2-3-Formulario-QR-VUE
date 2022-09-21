@@ -1,0 +1,54 @@
+h1{
+
+    text-align: center;
+    color: darkgreen;
+    margin-top: 5px;
+}
+h2 {
+    text-align: center;
+}
+
+h4 {
+
+    color: brown;
+    text-align: center;
+}
+
+#tarjeta {
+
+    border: solid 1px #000000;
+    border-radius:5px 10px 10px 10px; 
+    box-shadow: 5px 5px 15px gray;
+    background: rgba(151, 151, 153, 0.247);
+    /* background: linear-gradient(35deg, rgba(221, 68, 221, 0.276) 27%, rgba(57, 255, 90, 0.334) 44%); */
+
+}
+#tarjeta3 {
+
+    border: solid 1px #000000;
+    border-radius:5px 10px 10px 10px; 
+    box-shadow: 5px 5px 15px gray;
+    background: rgba(151, 151, 153, 0.92);
+  
+   
+
+}
+
+#body {
+    background-color: rgba(255, 235, 14, 0.294);
+
+}
+
+.contenedorQR {
+	display: flex;
+	justify-content: center;
+	padding: 40px 0;
+}
+
+span {
+    
+    color:cadetblue;
+    font-style: italic;
+
+
+}
